@@ -1,0 +1,155 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 85px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6fa;
+    color: #243247;
+}
+
+.navbar {
+    background-color: #17243a;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .nav-link {
+    color: #ffffff;
+}
+
+.navbar .nav-link:hover {
+    color: #a8cbff;
+}
+
+.portada {
+    padding: 80px 0;
+    background-color: #e8effa;
+}
+
+.portada h1 {
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    font-weight: bold;
+}
+
+.portada h1 span {
+    color: #245eb5;
+}
+
+.foto-perfil {
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid #ffffff;
+    box-shadow: 0 8px 25px #17243a26;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 230px;
+    height: 230px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: #245eb5;
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.seccion {
+    padding: 65px 0;
+}
+
+.titulo-seccion {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.fondo-blanco {
+    background-color: white;
+}
+
+.card {
+    border: 0;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 4px 18px #17243a12;
+}
+
+.imagen-proyecto {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.tecnologia {
+    display: inline-block;
+    padding: 6px 10px;
+    margin: 0 5px 7px 0;
+    border-radius: 15px;
+    background-color: #e8effa;
+    color: #245eb5;
+    font-size: 0.8rem;
+}
+
+.noticia {
+    padding: 20px;
+    margin-bottom: 18px;
+    border-left: 4px solid #245eb5;
+    border-radius: 8px;
+    background-color: white;
+}
+
+footer {
+    padding: 25px;
+    text-align: center;
+    background-color: #17243a;
+    color: white;
+}
+
+.saltar-contenido {
+    position: absolute;
+    left: 10px;
+    top: -100px;
+    z-index: 2000;
+    padding: 10px;
+    background-color: white;
+    color: #17243a;
+}
+
+.saltar-contenido:focus {
+    top: 10px;
+}
+
+:focus-visible {
+    outline: 3px solid #d78000;
+    outline-offset: 4px;
+}
+
+@media (max-width: 767px) {
+    .portada {
+        padding: 45px 0;
+        text-align: center;
+    }
+
+    .foto-perfil {
+        margin-top: 20px;
+    }
+
+    .seccion {
+        padding: 40px 0;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+}

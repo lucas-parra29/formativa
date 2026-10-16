@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "categoria": "portafolio",
+        "titulo": "Presentación del portafolio",
+        "fecha": "2026-10-16",
+        "contenido": "Este espacio reúne mi presentación personal, proyectos académicos y notas de aprendizaje."
+    },
+    {
+        "id": 2,
+        "categoria": "portafolio",
+        "titulo": "Contenido organizado en archivos JSON",
+        "fecha": "2026-10-16",
+        "contenido": "Los proyectos y las noticias se mantienen separados del diseño para facilitar su actualización."
+    },
+    {
+        "id": 3,
+        "categoria": "aprendizaje",
+        "titulo": "Componentes reutilizables",
+        "fecha": "2026-10-16",
+        "contenido": "Una misma tarjeta React puede mostrar distintos proyectos al recibir información mediante props."
+    },
+    {
+        "id": 4,
+        "categoria": "aprendizaje",
+        "titulo": "Uso del estado en React",
+        "fecha": "2026-10-16",
+        "contenido": "El buscador de proyectos y el formulario actualizan la pantalla cuando cambia su estado."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "tienda_HUERTO_HOGAR",
+        "descripcion": "pagina web de huerto hogar",
+        "tecnologias": ["Formularios", "JavaScript", "CSS"],
+        "imagen": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 360'%3E%3Crect width='640' height='360' fill='%23376373'/%3E%3Ctext x='320' y='200' text-anchor='middle' font-family='Arial' font-size='40' fill='white'%3EHuerto Hogar%3C/text%3E%3C/svg%3E",
+        "enlace": "https://sebastianmonsalve28.github.io/tienda_HUERTO_HOGAR"
+    },
+    {
+        "id": 2,
+        "titulo": "Portafolio personal",
+        "descripcion": "Página de presentación con componentes React, diseño adaptable y datos cargados desde JSON.",
+        "tecnologias": ["React", "Bootstrap", "JSON"],
+        "imagen": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 360'%3E%3Crect width='640' height='360' fill='%2317243a'/%3E%3Ctext x='320' y='200' text-anchor='middle' font-family='Arial' font-size='45' fill='white'%3EMi portafolio%3C/text%3E%3C/svg%3E",
+        "enlace": "https://github.com/lucas-parra29"
+    },
+    {
+        "id": 3,
+        "titulo": "Página web",
+        "descripcion": "Proyecto de página web publicado en GitHub Pages.",
+        "tecnologias": ["JavaScript", "CSS", "HTML"],
+        "imagen": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20640%20360%27%3E%3Crect%20width%3D%27640%27%20height%3D%27360%27%20fill%3D%27%23284f9e%27%2F%3E%3Ctext%20x%3D%27320%27%20y%3D%27200%27%20text-anchor%3D%27middle%27%20font-family%3D%27Arial%27%20font-size%3D%2745%27%20fill%3D%27white%27%3EP%C3%A1gina%20web%3C%2Ftext%3E%3C%2Fsvg%3E",
+        "enlace": "https://lucas-parra29.github.io/actividad_122/"
+    }
+]
