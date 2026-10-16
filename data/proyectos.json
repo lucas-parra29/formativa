@@ -13,7 +13,7 @@
         "descripcion": "Página de presentación con componentes React, diseño adaptable y datos cargados desde JSON.",
         "tecnologias": ["React", "Bootstrap", "JSON"],
         "imagen": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 360'%3E%3Crect width='640' height='360' fill='%2317243a'/%3E%3Ctext x='320' y='200' text-anchor='middle' font-family='Arial' font-size='45' fill='white'%3EMi portafolio%3C/text%3E%3C/svg%3E",
-        "enlace": "https://github.com/lucas-parra29"
+        "enlace": "https://lucas-parra29.github.io/formativa/"
     },
     {
         "id": 3,

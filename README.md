@@ -1,3 +1,7 @@
+## Portafolio publicado
+
+[Ver mi portafolio](https://lucas-parra29.github.io/formativa/)
+
 # Portafolio de Lucas Parra
 
 Estudiante de Informática · GitHub: https://github.com/lucas-parra29
