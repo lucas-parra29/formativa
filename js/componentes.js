@@ -116,7 +116,7 @@ function Presentacion({ nombre, carrera, github }) {
                         {fotoDisponible ? (
                             <img
                                 className="foto-perfil"
-                                src="./img/perfil.webp"
+                                src="./img/perfil.avif"
                                 alt="Lucas Parra"
                                 width="230"
                                 height="230"
